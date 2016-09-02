@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import urllib
 import urllib2
 #深大某宿舍区样例
